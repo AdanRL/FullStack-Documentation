@@ -14,7 +14,7 @@ Here you could see some of the tasks that we have made.
 ### Vinilo 💽
 * [Web](https://elenamsd.github.io/vinilo/) / [Repo](https://github.com/elenamsd/vinilo)
 
-### Pokemon 😺
+### Pokemon <img src="https://c.tenor.com/kodC8PAp4icAAAAj/pikachu-happy.gif" width="50px">
 * [Web]() / [Repo](https://github.com/AdanRL/pokemon-battle)
 
 <!-- ### Gopher G🔵 -->
