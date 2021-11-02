@@ -1,4 +1,25 @@
-# Fullstack
+# Fullstack - Documentation 📔✏️💻
+This repository contains some notes about some technologies that we have seen in class.
+
+Checkout our profiles:
+
+* [Adán 🐱‍👤](https://github.com/AdanRL)
+* [Míriam 🎈](https://github.com/mnzgarcia)
+* [Elena 🤭](https://github.com/elenamsd)
+
+
+## Tasks
+Here you could see some of the tasks that we have made.
+
+### Vinilo 💽
+* [Web](https://elenamsd.github.io/vinilo/) / [Repo](https://github.com/elenamsd/vinilo)
+
+### Pokemon 😺
+* [Web]() / [Repo](https://github.com/AdanRL/pokemon-battle)
+
+<!-- ### Gopher G🔵 -->
+
+
 
 ## Gist
 
