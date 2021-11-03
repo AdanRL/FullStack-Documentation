@@ -32,3 +32,4 @@ Here you could see some of the tasks that we have made.
 * [Cloud Config](https://gist.github.com/AdanRL/a019c1f37e640617986ca48f999f69bf)
 * [SSH connection](https://gist.github.com/AdanRL/01f7d70d3ef419bcc729b61637cd7bee)
 * [doas](https://gist.github.com/mnzgarcia/f91ae66ab781e636cc01fef0c74e539d)
+* [Go](https://gist.github.com/AdanRL/4ad5d8953c1a56e270db94147f3a43db)
