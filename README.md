@@ -10,8 +10,8 @@ Checkout our profiles:
 
 ## Tasks
 Here you could see some of the tasks that we have made.
-
-### Vinilo 💽
+https://www.discotecarecords.com/img/vinilo.gif
+### Vinilo  <img src="https://www.discotecarecords.com/img/vinilo.gif" width="25px">
 * [Web](https://elenamsd.github.io/vinilo/) / [Repo](https://github.com/elenamsd/vinilo)
 
 ### Pokemon <img src="https://c.tenor.com/kodC8PAp4icAAAAj/pikachu-happy.gif" width="50px">
