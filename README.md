@@ -10,7 +10,7 @@ Checkout our profiles:
 
 ## Tasks
 Here you could see some of the tasks that we have made.
-https://www.discotecarecords.com/img/vinilo.gif
+
 ### Vinilo  <img src="https://www.discotecarecords.com/img/vinilo.gif" width="25px">
 * [Web](https://elenamsd.github.io/vinilo/) / [Repo](https://github.com/elenamsd/vinilo)
 
@@ -20,6 +20,9 @@ https://www.discotecarecords.com/img/vinilo.gif
 
 ### Gopher Go <img src="https://gist.github.com/brudnak/efd7b887bd7c0441d8bb88ae1c77374a/raw/4629432d2259da168960c36e3801642960e645cf/gopher-workout.gif" width="50px">
 * [Web]() / [Repo](https://adanrl.github.io/gopherGo/)
+
+### Dice <img src="https://images.squarespace-cdn.com/content/v1/57f55aae5016e18aceeac449/1556005790616-P9HXIF9ZQ6BIWL0C5TRD/Tumbling-Dice_No-Text_GIF.gif?format=1500w" width="50px" style="transform: translateY(18px);">
+* [Web](https://elenamsd.github.io/dice/) / [Repo](https://github.com/elenamsd/dice)
 
 
 
